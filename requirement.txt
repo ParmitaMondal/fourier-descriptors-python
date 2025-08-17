@@ -1,0 +1,5 @@
+## requirements.txt
+```txt
+numpy>=1.24
+opencv-python>=4.9
+matplotlib>=3.7
